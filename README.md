@@ -1,16 +1,32 @@
-## Hi there 👋
+# Pradrix Technologies
 
-<!--
-**pradrixlabs/pradrixlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI systems that automate businesses.
 
-Here are some ideas to get you started:
+We help startups and enterprises implement:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Consulting
+- AI Automation
+- AI Agents
+- LLM Applications
+- Retrieval Augmented Generation (RAG)
+- AI Chatbots
+- Workflow Automation
+- Custom AI Software
+
+## Open Source
+
+We believe in open source.
+
+Our repositories include
+
+- AI Agent templates
+- RAG frameworks
+- Automation workflows
+- Starter kits
+- MCP integrations
+- AI SDKs
+- Production examples
+
+Website
+
+https://pradrix.com
