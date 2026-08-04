@@ -46,7 +46,7 @@ Business & Partnerships
 [partnerships@pradrix.com](mailto:partnerships@pradrix.com)
 
 General Inquiries
-[hello@pradrix.com](mailto:hello@pradrix.com)
+[contact@pradrix.com](mailto:contact@pradrix.com)
 
 ## Technology
 
