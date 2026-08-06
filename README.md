@@ -1,7 +1,8 @@
 # Pradrix
 
 
-<img width="1584" height="396" alt="Final_banner" src="https://github.com/user-attachments/assets/5f4a17f5-e42b-4d2e-b017-a779bd5175fa" />
+<img width="1584" height="396" alt="Final_banner" src="https://github.com/user-attachments/assets/962a7bf2-9c63-4730-b58f-f08433682c59" />
+
 
 
 Pradrix is an AI consulting and AI automation company that helps businesses design, build, and deploy production-ready artificial intelligence solutions.
